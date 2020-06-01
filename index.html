@@ -9,47 +9,41 @@
     <script type="text/javascript" src="js/main.js"></script>
   </head>
   <body>
-    <header>
-        <h1>gartenbienen.stekat</h1>
+    <header class="headerContainer">
+      <a href="index.html">
+        <img src="images/logo.svg">
+      </a>
+      <button class="navigation-menu-button" id="navigation-menu-button"></button>
+      <nav class="navigation-bar" id="navigation-bar">
+        <ul class="navigation-menu-list">
+        </ul>
+      </nav>
     </header>
-    <section id="intro">
-      <p>
-        Make something <strong>amazing</strong> with the web!
-      </p>
-    </section>
     <section id="dashboard-section">
       <h2>Bestand</h2>
       <div class="centred-flex-wrap">
         <div class="dashboard-element">
           <a href=details/voelker/>
             <p>Aktuell</p>
-            <h2 id="">1</h2>
-            <p>Volk</p>
-            <img src="https://via.placeholder.com/128x128">
+            <h2 id="">3</h2>
+            <p>V&ouml;ker</p>
           </a>
         </div>
         <div class="dashboard-element">
           <a href="details/ableger/">
             <p>Aktuell</p>
-            <h2>3</h2>
+            <h2>7</h2>
             <p>Ableger</p>
-            <img src="https://via.placeholder.com/128x128">
           </a>        
         </div>
         <div class="dashboard-element">
           <a href="details/honig/">
             <p>Aktuell</p>
-            <h2>39,4 kg</h2>
+            <h2>18,5 kg</h2>
             <p>Honig</p>
-            <img src="https://via.placeholder.com/128x128">
           </a>
         </div>
       </div>
-    </section>
-    <section>
-      <h2>Bilder</h2>
-      <div id="instafeed"></div>
-      <div class="button" id="load-more">load more</div>
     </section>
     <footer>
       <ul>
@@ -65,6 +59,11 @@
           <a class="socialIcon" href="https://twitter.com/gartenbienenste" target="_blank"><svg id="Logo_FIXED" data-name="Logo — FIXED" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260"><defs><style>.cls-1{fill:none;}.cls-2{fill:#777;}</style></defs><title>Twitter</title><rect class="cls-1" width="260" height="260"/><path class="cls-2"
             d="m 83.62,231.56897 c 94.34,0 145.94,-78.16 145.94,-145.940002 0,-2.22 0,-4.43 -0.15,-6.63 a 104.36,104.36 0 0 0 25.59,-26.55 102.38,102.38 0 0 1 -29.46,8.07 51.47,51.47 0 0 0 22.55,-28.37 102.79,102.79 0 0 1 -32.57,12.45 51.34,51.34 0 0 0 -87.41,46.78 A 145.62,145.62 0 0 1 22.4,37.788968 51.33,51.33 0 0 0 38.28,106.25897 50.91,50.91 0 0 1 15,99.838968 c 0,0.210002 0,0.430002 0,0.650002 a 51.31,51.31 0 0 0 41.15,50.28 51.21,51.21 0 0 1 -23.16,0.88 51.35,51.35 0 0 0 47.92,35.62 102.92,102.92 0 0 1 -63.7,22 104.41,104.41 0 0 1 -12.21,-0.74 145.21,145.21 0 0 0 78.62,23"/></svg>
           </a>
+        </li>
+        <li>
+          <a class="socialIcon" id="mail" href="#"><svg id="mail-logo" viewBox="0 0 13 13">
+            <path style="fill:none;stroke:#777;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;" d="M 11.225,10.348 C 7.203,13.495 1.374,12.036 1.185,6.700 C 1.727,-2.521 15.102,0.711 11.190,8.402 C 10.342,9.363 9.523,9.577 8.619,8.750 C 8.450,8.595 8.259,7.818 8.312,7.537 C 8.600,6.014 9.187,4.259 7.732,3.740 C 5.789,3.045 4.067,5.066 3.737,6.971 C 3.356,9.169 5.573,9.684 7.072,8.569 C 7.438,8.277 8.393,7.460 8.423,6.982"/>
+          </svg></a>
         </li>
       </ul>
       <small>

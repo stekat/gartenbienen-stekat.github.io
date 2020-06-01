@@ -99,8 +99,8 @@ a svg:hover .fill0 {
   flex: 1;
   /* cursor: pointer; */
   margin: 0.625rem;
-  min-width: 15.625rem;
-  max-width: 21.875rem;
+  min-width: 12rem;
+  max-width: 12rem;
   width: 12.5rem;
   /* box-shadow: 0.15rem 0.15rem 0 rgba(0,0,0,.12); */
   box-shadow: 0 0.25rem 0.125rem 0 rgba(33,37,41,.05);
@@ -134,4 +134,104 @@ a svg:hover .fill0 {
 #instafeed img {
   padding: 0.5rem;
   transition: opacity .2s ease-in-out;
+}
+.headerContainer {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 24px 15px;
+  justify-content: space-between;
+}
+
+.headerContainer img {
+  width: 260px;
+    height: 85px; 
+}
+
+.navigation-bar {
+  width: 100%;
+  display: none;
+}
+
+.navigation-bar.is-active {
+  display: block;
+}
+
+.navigation-logo {
+}
+
+.navigation-menu-button {
+  width: 32px;
+  border: none;
+  height: 32px;
+  margin: -4px 0;
+  cursor: pointer;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  background-image: url("../images/navigation-menu-button.svg");
+}
+
+.navigation-menu-button.is-active {
+  border-radius: 4px;
+  background-color: #ededf0;
+}
+
+.navigation-menu-list {
+  padding: 0;
+  list-style-type: none;
+}
+
+.navigation-menu-list li {
+  margin: 15px auto;
+  border-bottom: 1px solid #cdcdd4;
+}
+
+.navigation-menu-list li a {
+  display: block;
+  min-height: 40px;
+  font-weight: normal;
+}
+
+@media all and (max-width: 360px) {
+  .headerContainer img {
+    width: 210px;
+    height: 70px; 
+  }
+}
+
+/* Desktop menu */
+@media all and (min-width: 700px) {
+  .headerContainer {
+    flex-wrap: unset;
+    align-items: center;
+    justify-content: unset;
+  }
+
+  .headerContainer img {
+    width: 303px;
+    height: 100px;
+  }
+  
+  .navigation-menu-button {
+    display: none;
+  }
+
+  .navigation-bar {
+    display: flex;
+  }
+
+  .navigation-menu-list {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .navigation-menu-list li {
+    margin: 0 5% 0 0;
+    border-bottom: none;
+  }
+
+  .navigation-menu-list li a {
+    min-height: unset;
+  }
 }
