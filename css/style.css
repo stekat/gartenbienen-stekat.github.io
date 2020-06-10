@@ -55,30 +55,6 @@ footer small a {
   text-decoration: underline;
 }
 
-a svg:hover .st0 { 
-  fill:url(#SVGID_1_);
-}
-
-a svg:hover .st1 { 
-  fill:url(#SVGID_2_);
-}
-
-a svg:hover .st2 { 
-  fill:#654C9F;
-}
-
-a svg:hover .cls-2 { 
-  fill: #2ba9e1;
-}
-
-a svg:hover .fill0 { 
-  fill:#1AB7EA;
-}
-
-.socialIcon svg {
-  width: 3.75rem;
-}
-
 .button {
   outline: none;
   width: 10rem;
@@ -127,14 +103,6 @@ a svg:hover .fill0 {
   background: #f8f8f8;
 }
 
-#instafeed {
-  text-align: center;
-}
-
-#instafeed img {
-  padding: 0.5rem;
-  transition: opacity .2s ease-in-out;
-}
 .headerContainer {
   display: flex;
   flex-wrap: wrap;
@@ -143,8 +111,8 @@ a svg:hover .fill0 {
 }
 
 .headerContainer img {
-  width: 260px;
-    height: 85px; 
+  width: 150px;
+  height: 100px; 
 }
 
 .navigation-bar {
@@ -194,8 +162,8 @@ a svg:hover .fill0 {
 
 @media all and (max-width: 360px) {
   .headerContainer img {
-    width: 210px;
-    height: 70px; 
+    width: 130px;
+    height: 85px; 
   }
 }
 
@@ -208,8 +176,8 @@ a svg:hover .fill0 {
   }
 
   .headerContainer img {
-    width: 303px;
-    height: 100px;
+    width: 250px;
+    height: 115px;
   }
   
   .navigation-menu-button {
@@ -233,5 +201,13 @@ a svg:hover .fill0 {
 
   .navigation-menu-list li a {
     min-height: unset;
+  }
+
+  nav a:hover {
+    text-decoration: underline;
+  }
+
+  footer a:hover {
+    text-decoration: underline;
   }
 }
