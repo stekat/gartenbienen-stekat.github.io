@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="etikett.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    id="svg839"
    version="1.1"
    viewBox="0 0 100 55"
    height="55mm"
-   width="100mm">
+   width="100mm"
+   inkscape:export-filename="/home/stefan/Quelltext/gartenbienen-stekat.github.io/images/etikett.png"
+   inkscape:export-xdpi="96.599998"
+   inkscape:export-ydpi="96.599998"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs833">
     <inkscape:perspective
@@ -3812,21 +3815,22 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="986"
+     inkscape:window-height="981"
      inkscape:window-width="1680"
      showgrid="true"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="133.43952"
-     inkscape:cx="209.37068"
+     inkscape:cy="133.5"
+     inkscape:cx="209.75"
      inkscape:zoom="2"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     inkscape:pagecheckerboard="1">
     <inkscape:grid
        id="grid1402"
        type="xygrid" />
@@ -3860,13 +3864,17 @@
     <text
        id="text1428"
        y="25.567846"
-       x="78.780319"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="77.721985"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan3434"
-         sodipodi:role="line">mind. haltbar bis </tspan><tspan
+         sodipodi:role="line"
+         x="77.721985"
+         y="25.567846">mind. haltbar bis </tspan><tspan
          id="tspan3436"
-         sodipodi:role="line">Ende Aug. 2022</tspan></text>
+         sodipodi:role="line"
+         x="77.721985"
+         y="29.095621">Ende Juli 2023</tspan></text>
     <text
        id="text1432"
        y="52.652088"
@@ -13341,10 +13349,12 @@
        id="text5980"
        y="45.458797"
        x="81.854958"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         id="tspan3438"
-         sodipodi:role="line">Ch. 4 / 20</tspan></text>
+         id="tspan3435"
+         sodipodi:role="line"
+         x="81.854958"
+         y="45.458797">Ch. 1 / 21</tspan></text>
     <g
        id="g4174"
        transform="matrix(0.06138051,0,0,0.06138051,0.99346307,16.033893)">

@@ -3862,13 +3862,17 @@
     <text
        id="text1428"
        y="15.51367"
-       x="63.963638"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="63.434471"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan3435"
-         sodipodi:role="line">mind. haltbar bis</tspan><tspan
+         sodipodi:role="line"
+         x="63.434471"
+         y="15.51367">mind. haltbar bis</tspan><tspan
          id="tspan3437"
-         sodipodi:role="line">Ende Aug. 2022</tspan></text>
+         sodipodi:role="line"
+         x="63.434471"
+         y="18.159508">Ende Aug. 2022</tspan></text>
     <text
        id="text1432"
        y="32.891945"
@@ -13343,8 +13347,8 @@
        x="65.450775"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;"
        xml:space="preserve"><tspan
-         id="tspan3439"
-         sodipodi:role="line">Ch. 4 / 20</tspan></text>
+         id="tspan3430"
+         sodipodi:role="line">Ch. 3 / 20</tspan></text>
     <g
        id="g4174"
        transform="matrix(0.045947,0,0,0.045947,1.5226297,11.1125)">
