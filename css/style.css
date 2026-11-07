@@ -1,15 +1,10 @@
-/* Fonts from Google Fonts - more at https://fonts.google.com */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
-@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700');
 
 body {
-  /* background-color: white; */
+  background-color: white;
   font-family: "Open Sans", sans-serif;
-  padding: 0.25rem 1.5rem;
-  font-size: 1.125rem;
-  margin: 0;
-  color: #444; 
-  background: #fff;
+  font-weight: 400;
+  font-size: 1rem;
 }
 
 a {
@@ -19,12 +14,27 @@ a {
 }
 
 h1 {
-  font-family: "Merriweather", sans-serif;
-  font-size: 2.5rem;
+  font-family: "Open Sans" sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+}
+
+h2 {
+  font-family: "Open Sans" sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
 }
 
 header {
   text-align: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
 section {
@@ -33,7 +43,6 @@ section {
 }
 
 footer {
-  padding: 1.25rem;
   text-align: center;
 }
 
@@ -47,167 +56,12 @@ footer li {
   padding: 1rem;
 }
 
-footer small {
-  font-size: 0.875rem;
+.logo {
+  width: 25.5rem;
 }
 
-footer small a {
-  text-decoration: underline;
-}
-
-.button {
-  outline: none;
-  width: 10rem;
-  display: block;
-  color: #4a4a4a;
-  cursor: pointer;
-  font-weight: 600;
-  border-bottom: solid 0.125rem rgba(0,0,0,.3);
-  border-radius: 0.125rem;
-  margin: 2rem auto;
-  padding: 0.125rem;
-  text-decoration: none;
-  text-transform: uppercase;
-  background-color: #FFCE36;
-}
-
-.dashboard-element {
-  flex: 1;
-  /* cursor: pointer; */
-  margin: 0.625rem;
-  min-width: 12rem;
-  max-width: 12rem;
-  width: 12.5rem;
-  /* box-shadow: 0.15rem 0.15rem 0 rgba(0,0,0,.12); */
-  box-shadow: 0 0.25rem 0.125rem 0 rgba(33,37,41,.05);
-  background-color: white;
-  /* border-bottom: solid 0.125rem rgba(0,0,0,.12); */
-  border-radius: 0.125rem;
-}
-
-.dashboard-element img {
-  padding-bottom: 1rem;
-}
-
-.video-element {
-  margin: 0.625rem;
-}
-
-.centred-flex-wrap {
-  justify-content: center;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-#dashboard-section {
-  background: #f8f8f8;
-}
-
-.headerContainer {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 24px 15px;
-  justify-content: space-between;
-}
-
-.headerContainer img {
-  width: 150px;
-  height: 100px; 
-}
-
-.navigation-bar {
-  width: 100%;
-  display: none;
-}
-
-.navigation-bar.is-active {
-  display: block;
-}
-
-.navigation-logo {
-}
-
-.navigation-menu-button {
-  width: 32px;
-  border: none;
-  height: 32px;
-  margin: -4px 0;
-  cursor: pointer;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-color: transparent;
-  background-image: url("../images/navigation-menu-button.svg");
-}
-
-.navigation-menu-button.is-active {
-  border-radius: 4px;
-  background-color: #ededf0;
-}
-
-.navigation-menu-list {
-  padding: 0;
-  list-style-type: none;
-}
-
-.navigation-menu-list li {
-  margin: 15px auto;
-  border-bottom: 1px solid #cdcdd4;
-}
-
-.navigation-menu-list li a {
-  display: block;
-  min-height: 40px;
-  font-weight: normal;
-}
-
-@media all and (max-width: 360px) {
-  .headerContainer img {
-    width: 130px;
-    height: 85px; 
-  }
-}
-
-/* Desktop menu */
-@media all and (min-width: 700px) {
-  .headerContainer {
-    flex-wrap: unset;
-    align-items: center;
-    justify-content: unset;
-  }
-
-  .headerContainer img {
-    width: 200px;
-    height: 115px;
-  }
-  
-  .navigation-menu-button {
-    display: none;
-  }
-
-  .navigation-bar {
-    display: flex;
-  }
-
-  .navigation-menu-list {
-    width: 100%;
-    display: flex;
-    justify-content: flex-end;
-  }
-
-  .navigation-menu-list li {
-    margin: 0 5% 0 0;
-    border-bottom: none;
-  }
-
-  .navigation-menu-list li a {
-    min-height: unset;
-  }
-
-  nav a:hover {
-    text-decoration: underline;
-  }
-
-  footer a:hover {
-    text-decoration: underline;
+@media all and (max-width: 700px) {
+  .logo {
+    width: 18rem;
   }
 }

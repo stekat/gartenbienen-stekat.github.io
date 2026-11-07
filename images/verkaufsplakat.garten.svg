@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="verkaufsplakat.garten.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    id="svg8"
    version="1.1"
    viewBox="0 0 297 210"
    height="210mm"
-   width="297mm">
+   width="297mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <inkscape:perspective
@@ -3815,21 +3815,29 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="530.94103"
-     inkscape:cy="444.10094"
+     inkscape:zoom="0.86"
+     inkscape:cx="513.37209"
+     inkscape:cy="360.46512"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="1680"
-     inkscape:window-height="986"
+     inkscape:window-height="981"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid5345" />
+       id="grid5345"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="mm" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -13290,64 +13298,44 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32.6304px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.435822"
        x="286.60159"
-       y="50.827694"
+       y="48.711025"
        id="text5349"><tspan
          sodipodi:role="line"
          id="tspan5355"
          x="286.60159"
-         y="50.827694"
+         y="48.711025"
          style="text-align:end;text-anchor:end;stroke-width:0.435822">Honig aus </tspan><tspan
          sodipodi:role="line"
          id="tspan5357"
          x="286.60159"
-         y="91.6157"
+         y="89.499031"
          style="text-align:end;text-anchor:end;stroke-width:0.435822">unserem Garten</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="32.279171"
-       y="121.17922"
-       id="text7629"><tspan
-         sodipodi:role="line"
-         id="tspan7635"
-         x="32.279171"
-         y="121.17922">Glas klein</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="179.91667"
-       y="121.17922"
+       x="187.09882"
+       y="133.8793"
        id="text7633"><tspan
          sodipodi:role="line"
          id="tspan7631"
-         x="179.91667"
-         y="121.17922"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Glas groß</tspan></text>
+         x="187.09882"
+         y="133.8793"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">pro Glas</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="46.911022"
-       y="146.38515"
-       id="text7639"><tspan
-         sodipodi:role="line"
-         id="tspan7637"
-         x="46.911022"
-         y="146.38515"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.7556px;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">EUR 3</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="194.40489"
-       y="146.82458"
-       id="text7643"><tspan
-         sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40.7099px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.54522"
+       x="103.04695"
+       y="125.26852"
+       id="text7643"
+       transform="scale(0.91365419,1.094506)"><tspan
          id="tspan7641"
-         x="194.40489"
-         y="146.82458"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.7556px;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">EUR 5</tspan></text>
+         x="103.04695"
+         y="125.26852"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40.7099px;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.54522"
+         sodipodi:role="line">5.- €*</tspan></text>
     <g
        id="g8672"
-       transform="matrix(0.14231378,0,0,0.14231378,242.8875,161.39582)">
+       transform="matrix(0.14231378,0,0,0.14231378,252.3369,168.57737)">
       <rect
          id="rect7645"
          fill="#ffffff"
@@ -15721,14 +15709,20 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="22.069387"
-       y="183.98923"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="148.21391"
+       y="178.69742"
        id="text8680"><tspan
-         y="183.98923"
-         x="22.069387"
-         id="tspan3488"
-         sodipodi:role="line">+49 173 57 73 324 wählen oder im Web</tspan></text>
+         y="178.69742"
+         x="148.21391"
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle">Geld bitte im Briefkasten bei Dietsch</tspan><tspan
+         y="191.04465"
+         x="148.21391"
+         sodipodi:role="line"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle"
+         id="tspan2">(um die Ecke) einwefen</tspan></text>
     <text
        id="text8676-3"
        y="203.41867"
@@ -15740,14 +15734,26 @@
          id="tspan3460"
          sodipodi:role="line">Leere Gläser nehmen wir gerne zurück.</tspan></text>
     <text
-       id="text8676-4"
-       y="164.71721"
-       x="125.7887"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         y="164.71721"
-         x="125.7887"
-         id="tspan3480"
-         sodipodi:role="line">Keiner da?</tspan></text>
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="59.857864"
+       y="133.47469"
+       id="text7633-6"><tspan
+         sodipodi:role="line"
+         id="tspan7631-7"
+         x="59.857864"
+         y="133.47469"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.7556px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">ab</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="158.9812"
+       y="153.94315"
+       id="text8680-2"><tspan
+         y="153.94315"
+         x="158.9812"
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle"
+         id="tspan2-1">* Wer mag, darf gerne mehr geben!</tspan></text>
   </g>
 </svg>
